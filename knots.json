@@ -1,0 +1,23 @@
+[
+  {
+    "id": "clinch",
+    "name": "Improved Clinch Knot",
+    "difficulty": "Easy",
+    "imageUrl": "https://www.netknots.com/application/files/thumbnails/small/8014/8303/3816/improved-clinch-knot.jpg",
+    "description": "The most commonly used knot to attach a hook to the line."
+  },
+  {
+    "id": "palomar",
+    "name": "Palomar Knot",
+    "difficulty": "Medium",
+    "imageUrl": "https://www.netknots.com/application/files/thumbnails/small/1814/8303/3910/palomar-knot.jpg",
+    "description": "A very strong and reliable knot, ideal for braided lines."
+  },
+  {
+    "id": "loop",
+    "name": "Figure Eight Loop",
+    "difficulty": "Easy",
+    "imageUrl": "https://www.netknots.com/application/files/thumbnails/small/8414/8303/3807/figure-eight-loop.jpg",
+    "description": "A simple loop knot that does not slip."
+  }
+]
