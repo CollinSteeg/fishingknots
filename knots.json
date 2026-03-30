@@ -19,5 +19,40 @@
     "difficulty": "Easy",
     "description": "A simple loop knot that does not slip.",
     "videoUrl": "https://www.youtube.com/watch?v=4ATyj5jukxA"
+  },
+  {
+    "id": "uni",
+    "name": "Uni Knot",
+    "difficulty": "Easy",
+    "description": "A versatile knot used for attaching hooks, swivels, or joining lines.",
+    "videoUrl": "https://www.youtube.com/watch?v=f1pFMWc0ZP0"
+  },
+  {
+    "id": "double_uni",
+    "name": "Double Uni Knot",
+    "difficulty": "Medium",
+    "description": "Used to join two lines together, especially lines of different diameters.",
+    "videoUrl": "https://www.youtube.com/watch?v=6VgQLBpwJUY"
+  },
+  {
+    "id": "blood",
+    "name": "Blood Knot",
+    "difficulty": "Hard",
+    "description": "A classic knot for joining two lines of similar diameter.",
+    "videoUrl": "https://www.youtube.com/watch?v=Q0afkYn8vT8"
+  },
+  {
+    "id": "albright",
+    "name": "Albright Knot",
+    "difficulty": "Medium",
+    "description": "Great for joining lines of different materials, like braid to mono.",
+    "videoUrl": "https://www.youtube.com/watch?v=eKYZL9ETWk4"
+  },
+  {
+    "id": "fg",
+    "name": "FG Knot",
+    "difficulty": "Hard",
+    "description": "A very strong and slim knot for connecting braid to leader line.",
+    "videoUrl": "https://www.youtube.com/watch?v=JsupznHQ4tw"
   }
 ]
